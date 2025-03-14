@@ -17,6 +17,9 @@
 
 <h3>Things that I study</h3>
 <p>
+  <a href="https://en.wikipedia.org/wiki/Java_(programming_language)">
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>
   <a href="https://en.wikipedia.org/wiki/Python_(programming_language)">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   </a>
@@ -34,6 +37,12 @@
   </a>
   <a href="https://en.wikipedia.org/wiki/Visual_Studio">
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Android_Studio">
+    <img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/IntelliJ_IDEA">
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   </a>
 </p>
 
